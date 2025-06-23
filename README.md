@@ -1,6 +1,3 @@
 # Curso de Git
 
-## Salvando as alterações no repositorio remoto
-
-git pull
-git fetch
+## Receitas de Familia - EDIÇÃ0 Bahia

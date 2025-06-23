@@ -1,1 +1,0 @@
-// aqui sera funcoes para lidar com strings
