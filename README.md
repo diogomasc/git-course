@@ -1,3 +1,3 @@
 # Curso de Git
 
-## Receitas de Familia - EDIÇÃ0 Bahia
+## Receitas de Familia - EDIÇÃO Bahia
